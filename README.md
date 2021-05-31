@@ -1,6 +1,6 @@
 # GCODB
 
-GCODB is an [Ethereum-compatible](https://github.com/ethereum/go-ethereum) project. It uses a new consensus and new block reward for JINBAO ecosystem devices and IOT. And you can view the transactions on the [
+GCODB is an [Ethereum-compatible](https://github.com/ethereum/go-ethereum) project. It uses a new consensus and new block reward for GCODB ecosystem devices and IOT. And you can view the transactions on the [
 
 
 Since the list of signers is 11, it is recommended that the confirmation number of general transfer transaction block be set to 11 (one round), and that of exchange block be set to 22 (two rounds).
